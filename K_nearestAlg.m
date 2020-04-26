@@ -1,6 +1,5 @@
 %{
     author: Fellipe Sho Miqui
-    class: BENG420
     version: 1.0.0
     Size of the data used: 8000 samples
 %}
